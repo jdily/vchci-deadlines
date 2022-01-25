@@ -3,7 +3,7 @@ description: Countdowns to top CG/CV/ML/HCI conference deadlines
 author: I-Chao Shen
 
 domain: "vchci-deadlines"
-baseurl: "https://jdily.github.io/"
+baseurl: "https://jdily.github.io/vchci-deadlines"
 
 twitter_hashtag: machinelearning
 github_username: paperswithcode
