@@ -1,4 +1,12 @@
 ---
+- title: CSCW
+  year: 2022
+  id: cscw2022
+  deadline: '2022-01-15 23:59:00'
+  date: 'November 12-16, 2022'
+  place: Taipei, Taiwan
+  sub: HCI
+
 - title: Pacific Graphics
   year: 2022
   id: pg2022
