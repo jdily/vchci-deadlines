@@ -1,4 +1,14 @@
 ---
+- title: Pacific Graphics
+  year: 2022
+  id: pg2022
+  link: https://pg2022.org/#HOME
+  deadline: 'not release yet'
+  date: Oct 5 - 8, 2022
+  place: Kyoto, Japan
+  sub: CG
+  hindex: 60
+  
 - title: SIGGRAPH ASIA
   year: 2022
   id: siga2022
@@ -7,6 +17,7 @@
   date: Dec 6 - 9, 2022
   place: Daegu, Korea
   sub: CG
+  hindex: 95
   
 - title: UIST
   year: 2022
@@ -15,6 +26,7 @@
   deadline: 'not release yet'
   date: Oct 29 - Nov 2, 2022
   place: Bend, Oregon, USA
+  hindex: 42
   sub: HCI
   
 - title: ICML
