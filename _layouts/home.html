@@ -206,7 +206,6 @@
           var today = moment();
           diff = today.diff(confDate);
           $('#{{conf.id}}').attr("diff", diff)
-          
         {% else %}
           // adjust date according to deadline timezone
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
