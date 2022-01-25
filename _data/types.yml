@@ -1,9 +1,9 @@
 ---
-- name: Machine Learning
-  sub: ML
-- name: Computer Vision
-  sub: CV
 - name: Computer Graphics
   sub: CG
+- name: Computer Vision
+  sub: CV
+- name: Machine Learning
+  sub: ML
 - name: Human Computer Interaction
   sub: HCI
