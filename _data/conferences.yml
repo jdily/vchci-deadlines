@@ -1,32 +1,4 @@
 ---
-- title: CSCW
-  year: 2022
-  id: cscw2022
-  deadline: '2022-01-15 23:59:00'
-  date: 'November 12-16, 2022'
-  place: Taipei, Taiwan
-  sub: HCI
-
-- title: Pacific Graphics
-  year: 2022
-  id: pg2022
-  link: https://pg2022.org/
-  date: October 5-8, 2022
-  deadline: 'TBA'
-  place: Kyoto, Japan
-  sub: CG
-  hindex: 60
-  
-- title: SIGGRAPH ASIA
-  year: 2022
-  id: siga2022
-  link: https://sa2022.siggraph.org/en/
-  date: December 6-9, 2022
-  deadline: 'TBA'
-  place: Daegu, Korea
-  sub: CG
-  hindex: 95
-  
 - title: UIST
   year: 2022
   id: uist2022
@@ -86,6 +58,34 @@
   place: Tel Aviv, Israel
   sub: CV
 
+- title: CSCW
+  year: 2022
+  id: cscw2022
+  deadline: '2022-01-15 23:59:00'
+  date: 'November 12-16, 2022'
+  place: Taipei, Taiwan
+  sub: HCI
+
+- title: Pacific Graphics
+  year: 2022
+  id: pg2022
+  link: https://pg2022.org/
+  date: October 5-8, 2022
+  deadline: 'TBA'
+  place: Kyoto, Japan
+  sub: CG
+  hindex: 60
+  
+- title: SIGGRAPH ASIA
+  year: 2022
+  id: siga2022
+  link: https://sa2022.siggraph.org/en/
+  date: December 6-9, 2022
+  deadline: 'TBA'
+  place: Daegu, Korea
+  sub: CG
+  hindex: 95
+  
 - title: ACCV
   hindex: 38
   year: 2020

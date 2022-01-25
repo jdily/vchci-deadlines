@@ -245,6 +245,7 @@
           diff = today.diff(confDate);
 
           $('#{{conf.id}}').attr("diff", diff)
+          // if diff > 0 -> past, diff < 0 -> future
           if (diff > 0) {
             $('#{{conf.id}}').addClass('past');
             $('#{{conf.id}}').appendTo($("#past_confs"))
@@ -258,7 +259,7 @@
         $("#coming_confs .ConfItem").sort(function (a, b) {
           return $(b).attr('diff') - $(a).attr('diff');
         }).appendTo($("#coming_confs"));
-
+        
         $("#sort-order-checkbox input").on("click", function() {
           if ($("#sort-order-checkbox input").is(":checked")) {
             $("#past_confs .ConfItem").sort(function (a, b) {
