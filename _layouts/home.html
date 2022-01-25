@@ -202,7 +202,8 @@
           $('#{{conf.id}} .timer').html("TBA");
           $('#{{conf.id}} .deadline-time').html("TBA");
           var fake_deadline = "";
-          var confDate = future_time
+          var confDate = future_time;
+          var today = moment();
           diff = today.diff(confDate);
           $('#{{conf.id}}').attr("diff", diff)
           
