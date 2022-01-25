@@ -1,4 +1,12 @@
 ---
+- title: SGP
+  year: 2022
+  id: sgp2022
+  deadline: '2022-04-11 23:59:00'
+  timezone: 'UTC'
+  date: July 4-6, 2022
+  sub: CG
+
 - title: CHI
   year: 2023
   id: chi2023
