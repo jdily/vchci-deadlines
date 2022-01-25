@@ -193,7 +193,7 @@
           name2sub[conf_type_data[i]['name']] = conf_type_data[i]['sub'];
         }
 
-        var event = new Date('August 19, 1975 23:15:30'); 
+        var future_time = moment("2025-12-31T12:00:00Z");
         {% for conf in site.data.conferences %}
         {% for sub in conf.sub %}
         $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
@@ -202,8 +202,10 @@
           $('#{{conf.id}} .timer').html("TBA");
           $('#{{conf.id}} .deadline-time').html("TBA");
           var fake_deadline = "";
-          var confDate = moment.tz("{{conf.deadline}}", timezone);
-
+          var confDate = future_time
+          diff = today.diff(confDate);
+          $('#{{conf.id}}').attr("diff", diff)
+          
         {% else %}
           // adjust date according to deadline timezone
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};

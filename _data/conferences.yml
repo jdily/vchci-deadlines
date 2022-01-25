@@ -1,4 +1,14 @@
 ---
+- title: SIGGRAPH ASIA
+  year: 2022
+  id: siga2022
+  link: https://sa2022.siggraph.org/en/
+  date: December 6-9, 2022
+  deadline: 'TBA'
+  place: Daegu, Korea
+  sub: CG
+  hindex: 95
+  
 - title: UIST
   year: 2022
   id: uist2022
@@ -74,18 +84,9 @@
   deadline: 'TBA'
   place: Kyoto, Japan
   sub: CG
-  hindex: 60
-  
-- title: SIGGRAPH ASIA
-  year: 2022
-  id: siga2022
-  link: https://sa2022.siggraph.org/en/
-  date: December 6-9, 2022
-  deadline: 'TBA'
-  place: Daegu, Korea
-  sub: CG
-  hindex: 95
-  
+  hindex: 60  
+
+
 - title: ACCV
   hindex: 38
   year: 2020
