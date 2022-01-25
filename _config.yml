@@ -1,9 +1,9 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Visual Computing / HCI Conference Deadlines
+description: Countdowns to top CG/CV/ML/HCI conference deadlines
+author: I-Chao Shen
 
-domain: "aideadlin.es"
-baseurl: ""
+domain: "vchci-deadlines"
+baseurl: "jdily.github.io"
 
 twitter_hashtag: machinelearning
 github_username: paperswithcode
