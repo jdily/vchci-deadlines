@@ -1,4 +1,14 @@
 ---
+- title: EGSR
+  year: 2022
+  id: egsr2022
+  deadline: '2022-04-15 23:59:00'
+  link: https://egsr.eu/2022/
+  timezone: 'UTC'
+  date: July 4-6, 2022
+  place: Prague, Czech Republic
+  sub: CG
+
 - title: SGP
   year: 2022
   id: sgp2022
