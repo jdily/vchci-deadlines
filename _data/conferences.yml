@@ -8,6 +8,7 @@
   date: July 4-6, 2022
   place: Prague, Czech Republic
   sub: CG
+  note: '<b>NOTE</b>: Mandatory abstract deadline on April 8, 2022'
 
 - title: SGP
   year: 2022
@@ -16,6 +17,7 @@
   link: https://sgp2022.github.io/
   timezone: 'UTC'
   date: July 4-6, 2022
+  place: Online
   sub: CG
 
 - title: CHI
