@@ -1,4 +1,13 @@
 ---
+- title: ACCV
+  year: 2022
+  id: accv2022
+  deadline: '2022-07-06 23:59:00'
+  timezone: 'PST'
+  date: December 4-8, 2022
+  place: Macau SAR, China
+  sub: CV
+
 - title: EGSR
   year: 2022
   id: egsr2022
