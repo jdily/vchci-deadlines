@@ -49,14 +49,6 @@
   sub: CG
   note: '<b>NOTE</b>: Mandatory abstract deadline on April 7, 2022'
 
-- title: CHI
-  year: 2023
-  id: chi2023
-  deadline: 'TBA'
-  date: 'TBA'
-  place: Hamburg, Germany
-  sub: HCI
-
 - title: SIGGRAPH ASIA
   year: 2022
   id: siga2022
