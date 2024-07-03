@@ -7,6 +7,7 @@
   date: 'Feb 25 - Mar 4, 2025'
   place: Philadelphia, USA
   sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 7, 2024'
 
 - title: CHI
   year: 2025
@@ -16,6 +17,7 @@
   date: 'Apr 26 - May 1, 2025'
   place: Yokohama, Japan
   sub: HCI
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 5, 2024'
 
 - title: ACM Multimedia
   year: 2022
