@@ -1,4 +1,13 @@
 ---
+- title: CHI
+  year: 2025
+  id: chi2025
+  deadline: '2024-09-12 23:59:00'
+  timezone: 'AoE'
+  date: 'Apr 26 - May 1, 2025'
+  place: Yokohama, Japan
+  sub: HCI
+
 - title: ACM Multimedia
   year: 2022
   id: mm2022
