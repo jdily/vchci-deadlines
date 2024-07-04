@@ -7,7 +7,7 @@
   timezone: UTC-12
   date: 'Dec 3-6, 2024'
   place: Tokyo, Japan
-  sub: CG
+  sub: ['CG', 'ML', 'CV']
   
 - title: AAAI
   year: 2025
@@ -17,7 +17,7 @@
   timezone: UTC-12
   date: 'Feb 25 - Mar 4, 2025'
   place: Philadelphia, USA
-  sub: ML
+  sub: ['ML', 'CV']
   note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024.'
 
 - title: CHI
