@@ -4,7 +4,7 @@
 - title: AAAI
   year: 2025
   id: aaai2025
-  deadline: '2024-08-15 23:59:00'
+  deadline: '2024-08-15 23:59:59'
   timezone: 'AoE'
   date: 'Feb 25 - Mar 4, 2025'
   place: Philadelphia, USA
@@ -14,7 +14,7 @@
 - title: CHI
   year: 2025
   id: chi2025
-  deadline: '2024-09-12 23:59:00'
+  deadline: '2024-09-12 23:59:59'
   timezone: 'AoE'
   date: 'Apr 26 - May 1, 2025'
   place: Yokohama, Japan
