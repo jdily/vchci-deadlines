@@ -1,5 +1,14 @@
 ---
-
+- title: CVPR
+  year: 2025
+  id: cvpr2025
+  deadline: '2024-11-15 23:59:59'
+  timezone: UTC-0
+  date: 'June 10, 2025'
+  place: Nashville, Tennessee, United States
+  sub: ['CV', 'ML']
+  note: '<b>NOTE</b>: Mandatory abstract registration on Nov 08, 2024'
+  
 - title: ICLR
   year: 2025
   id: iclr2025
