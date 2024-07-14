@@ -223,6 +223,9 @@ footer {
   .conf-date {
     display: none;
   }
+  .conf-url {
+    display: none;
+  }
   .note {
     display: none;
   }
