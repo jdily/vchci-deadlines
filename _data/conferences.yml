@@ -7,6 +7,7 @@
   date: 'June 10, 2025'
   place: Nashville, Tennessee, United States
   sub: ['CV', 'ML']
+  submit_url: https://openreview.net/group?id=ICLR.cc/2025/Conference
   note: '<b>NOTE</b>: Mandatory abstract registration on Nov 08, 2024'
   
 - title: ICLR
@@ -17,6 +18,7 @@
   date: 'Apr 24-?, 2025'
   place: Singapore
   sub: ['ML']
+  submit_url: https://openreview.net/group?id=ICLR.cc/2025/Conference
   note: '<b>NOTE</b>: Mandatory abstract registration on Sep 27, 2024'
 
 - title: SIGGRAPH ASIA [Technical Communication and Poster]
@@ -27,7 +29,7 @@
   date: 'Dec 3-6, 2024'
   place: Tokyo, Japan
   sub: ['CG', 'ML', 'CV']
-  url: https://asia.siggraph.org/2024/submissions/technical-communications/
+  url: https://asia.siggraph.org/2024
   submit_url: https://ssl.linklings.net/conferences/siggraphasia/
   
 - title: AAAI
@@ -39,6 +41,8 @@
   date: 'Feb 25 - Mar 4, 2025'
   place: Philadelphia, USA
   sub: ['ML', 'CV']
+  submit_url: https://openreview.net/group?id=AAAI.org/2025/Conference
+  url: https://aaai.org/conference/aaai/aaai-25/
   note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024.'
 
 - title: CHI
@@ -48,7 +52,8 @@
   timezone: UTC-12
   date: 'Apr 26 - May 1, 2025'
   place: Yokohama, Japan
-  sub: HCI
+  sub: ['HCI']
+  url: https://chi2025.acm.org/
   note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 5, 2024'
 
 - title: ACM Multimedia
