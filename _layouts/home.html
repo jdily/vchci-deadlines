@@ -91,6 +91,10 @@
                     {% endif %}
                   </span>
                 </div>
+                <div class="conf-url">
+                    Conference website: <a href="conf.url">{{conf.url}}</a>. <br>
+                    Submission website: <a href="conf.url">{{conf.submit_url}}</a>.
+                </div>
                 {% if conf.note %}
                 <div class="note">
                   {{conf.note}}
@@ -214,7 +218,7 @@
 
           // render countdown timer
           $('#{{conf.id}} .timer').countdown(confDate.toDate(), function(event) {
-            $(this).html(event.strftime('%D days %Hh %Mm'));
+            $(this).html(event.strftime('%D days %Hh'));
             // $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
           });
 
