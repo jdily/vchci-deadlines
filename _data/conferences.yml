@@ -7,6 +7,7 @@
   date: 'June 10, 2025'
   place: Nashville, Tennessee, United States
   sub: ['CV', 'ML']
+  url: TBA
   submit_url: https://openreview.net/group?id=ICLR.cc/2025/Conference
   note: '<b>NOTE</b>: Mandatory abstract registration on Nov 08, 2024'
   
@@ -18,6 +19,7 @@
   date: 'Apr 24-?, 2025'
   place: Singapore
   sub: ['ML']
+  url: TBA
   submit_url: https://openreview.net/group?id=ICLR.cc/2025/Conference
   note: '<b>NOTE</b>: Mandatory abstract registration on Sep 27, 2024'
 
@@ -53,6 +55,7 @@
   date: 'Apr 26 - May 1, 2025'
   place: Yokohama, Japan
   sub: ['HCI']
+  submit_url: TBA
   url: https://chi2025.acm.org/
   note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 5, 2024'
 
