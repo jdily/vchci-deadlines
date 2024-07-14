@@ -3,7 +3,7 @@ description: Information of CG/CV/ML/HCI conferences.
 author: I-Chao Shen
 
 domain: ""
-baseurl: "https://jdily.github.io/vchci-deadlines"
+baseurl: "https://jdily.github.io/vchci-confs"
 
 twitter_hashtag: machinelearning
 github_username: paperswithcode
