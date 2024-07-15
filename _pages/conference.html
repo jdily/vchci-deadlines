@@ -49,6 +49,10 @@ permalink:  /conference/
                   <img src="{{site.baseurl}}/static/img/203-earth.svg" class="badge-link" />
                   <a id="submit-website" target="_blank" nohref></a>
                 </div>
+                <div class="meta deadline col-xs-12">
+                  <img src="{{site.baseurl}}/static/img/203-earth.svg" class="badge-link" />
+                  <a id="template-website" target="_blank" nohref></a>
+                </div>
                 <div class="meta deadline col-xs-12 col-md-5">
                   Deadline in timezone from conference website:
                 </div>
@@ -123,6 +127,8 @@ permalink:  /conference/
               $('#conf-website').attr('href', "{{conf.url}}");
               $('#submit-website').text("{{conf.submit_url}}");
               $('#submit-website').attr('href', "{{conf.submit_url}}");
+              $('#template-website').text("{{conf.template_url}}");
+              $('#template-website').attr('href', "{{conf.template_url}}");
               var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #{{ conf.title }}{{ conf.year }} deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
               $('#twitter-box').html(twitter_slug);
               {% if conf.deadline == "TBA" %}
