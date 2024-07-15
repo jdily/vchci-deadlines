@@ -33,6 +33,7 @@
   sub: ['CG', 'ML', 'CV']
   url: https://asia.siggraph.org/2024
   submit_url: https://ssl.linklings.net/conferences/siggraphasia/
+  template_url: https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty
   
 - title: AAAI
   year: 2025
