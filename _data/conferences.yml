@@ -1,5 +1,15 @@
 ---
 
+- title: 3DV
+  year: 2025
+  id: threedv2025
+  deadline: '2024-08-12 23:59:59'
+  timezone: UTC-8
+  date: 'Mar 25-28, 2025'
+  place: Singapore
+  url: https://3dvconf.github.io/2025/dates/
+  submit_url: https://openreview.net/group?id=3DV/2025/Conference
+  sub: ['CV', 'CG', 'ML']
   
 - title: CVPR
   year: 2025
