@@ -26,8 +26,8 @@
 - title: ICLR
   year: 2025
   id: iclr2025
-  deadline: '2024-10-02 23:59:59'
-  timezone: UTC-0
+  deadline: '2024-10-01 23:59:59'
+  timezone: UTC-12
   date: 'Apr 24-?, 2025'
   place: Singapore
   sub: ['ML']
