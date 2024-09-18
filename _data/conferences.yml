@@ -1,5 +1,14 @@
 ---
-
+- title: Eurographics
+  year: 2025
+  id: eg2025
+  deadline: '2024-10-03 23:59:59'
+  timezone: UTC-0
+  date: 'May 12, 2025'
+  place: 'London, England'
+  url: 'https://eg25.cs.ucl.ac.uk/main/callforfullpapers.html'
+  sub: ['CG']
+  
 - title: 3DV
   year: 2025
   id: threedv2025
