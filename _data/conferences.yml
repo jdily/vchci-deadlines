@@ -8,6 +8,7 @@
   place: 'Vancouver, Canada'
   url: 'https://s2025.siggraph.org/program/technical-papers/'
   sub: ['CG']
+  note: '<b>NOTE</b>: Mandatory submmission form registration on Jan 16, 2025'
   
 - title: Eurographics
   year: 2025
