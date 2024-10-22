@@ -23,13 +23,13 @@
 - title: CVPR
   year: 2025
   id: cvpr2025
-  deadline: '2024-11-15 23:59:59'
+  deadline: '2024-11-15 07:59:59'
   timezone: UTC-0
   date: 'June 10, 2025'
   place: Nashville, Tennessee, United States
   sub: ['CV', 'ML']
-  url: TBA
-  submit_url: https://openreview.net/group?id=ICLR.cc/2025/Conference
+  url: https://cvpr.thecvf.com/
+  submit_url: https://openreview.net/group?id=thecvf.com/CVPR/2025/Conference#tab-recent-activity
   note: '<b>NOTE</b>: Mandatory abstract registration on Nov 08, 2024'
   
 - title: ICLR
