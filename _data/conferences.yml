@@ -1,4 +1,15 @@
 ---
+- title: UIST
+  year: 2025
+  id: uist2025
+  deadline: '2025-04-09 00:00:00'
+  timezone: UTC-12
+  date: 'Sep 28 - Oct 1, 2025'
+  place: 'Busan, Korea'
+  url: 'https://uist.acm.org/2025/'
+  sub: ['HCI']
+  note: '<b>NOTE</b>: Mandatory abstract registration on Apr 02, 2025'
+
 - title: SIGGRAPH
   year: 2025
   id: siggraph25
