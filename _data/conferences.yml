@@ -10,6 +10,16 @@
   sub: ['HCI']
   note: '<b>NOTE</b>: Mandatory abstract registration on Apr 02, 2025'
 
+- title: ICCV
+  year: 2025
+  id: iccv2025
+  deadline: '2025-03-07 08:00:00'
+  timezone: UTC-0
+  date: 'October 19 - 25, 2025'
+  place: 'Honolulu, Hawaii, USA'
+  url: https://iccv2025.thecvf.com/
+  sub: ['CV', 'CG', 'ML']
+
 - title: SIGGRAPH
   year: 2025
   id: siggraph25
