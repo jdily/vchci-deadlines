@@ -1,5 +1,16 @@
 ---
-  
+- title: PG
+  year: 2025
+  id: pg2025
+  deadline: '2025-06-06 00:00:00'
+  timezone: UTC-12
+  date: 'Oct 14 - 17, 2025'
+  place: 'Taipei, Taiwan'
+  url: 'https://pg2025.nccu.edu.tw/'
+  sub: ['CG']
+  note: '<b>NOTE</b>: Mandatory abstract registration on May 30, 2025'
+
+
 - title: UIST
   year: 2025
   id: uist2025
