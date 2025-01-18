@@ -37,7 +37,7 @@
   year: 2025
   id: siggraph25
   deadline: '2025-01-23 22:00:00'
-  timezone: UTC-12
+  timezone: UTC-0
   date: 'Aug 10-14, 2025'
   place: 'Vancouver, Canada'
   url: 'https://s2025.siggraph.org/program/technical-papers/'
