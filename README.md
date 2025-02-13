@@ -1,4 +1,4 @@
-## VC/HCI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+## VC/HCI Deadlines 
 
 Countdown timers to keep track of a bunch of CG/CV/ML/HCI conference deadlines.
 
