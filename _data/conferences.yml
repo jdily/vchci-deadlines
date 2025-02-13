@@ -1,4 +1,16 @@
 ---
+- title: SIGGRAPH ASIA
+  year: 2025
+  id: sigasia25
+  deadline: 
+  timezone: UTC-0
+  date: 'Dec 15-18, 2025'
+  place: 'Hong Kong'
+  url: 'https://asia.siggraph.org/2025/submissions/'
+  submit_url: 
+  sub: ['CG']
+  note: 
+  
 - title: PG
   year: 2025
   id: pg2025
