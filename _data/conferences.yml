@@ -10,7 +10,17 @@
   submit_url: 
   sub: ['CG']
   note: 
-  
+
+- title: NeurIPS
+  year: 2025
+  id: neurips2025
+  deadline: '2025-05-15 23:59:00'
+  timezone:  UTC-12
+  place: 'San Diego, California, USA'
+  url: 'https://neurips.cc/'
+  sub: ['ML']
+  note: '<b>NOTE</b>: Mandatory abstract registration on May 11, 2025'
+
 - title: PG
   year: 2025
   id: pg2025
