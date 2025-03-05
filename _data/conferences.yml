@@ -2,14 +2,14 @@
 - title: SIGGRAPH ASIA
   year: 2025
   id: sigasia25
-  deadline: '2025-05-16 23:59:59'
+  deadline: '2025-05-23 23:59:59'
   timezone: UTC-12
   date: 'Dec 15-18, 2025'
   place: 'Hong Kong'
   url: 'https://asia.siggraph.org/2025/submissions/'
   submit_url: 
   sub: ['CG']
-  note: 
+  note: '<b>NOTE</b>: Mandatory abstract registration on May 16, 2025'
 
 - title: NeurIPS
   year: 2025
