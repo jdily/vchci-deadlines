@@ -7,7 +7,7 @@
   date: 'Dec 15-18, 2025'
   place: 'Hong Kong'
   url: 'https://asia.siggraph.org/2025/submissions/'
-  submit_url: 
+  submit_url: 'https://ssl.linklings.net/conferences/siggraphasia/'
   sub: ['CG']
   note: '<b>NOTE</b>: Mandatory abstract registration on May 16, 2025'
 
@@ -16,6 +16,7 @@
   id: neurips2025
   deadline: '2025-05-15 23:59:00'
   timezone:  UTC-12
+  date: 'Dec 2 - 7, 2025'
   place: 'San Diego, California, USA'
   url: 'https://neurips.cc/'
   sub: ['ML']
@@ -29,6 +30,7 @@
   date: 'Oct 14 - 17, 2025'
   place: 'Taipei, Taiwan'
   url: 'https://pg2025.nccu.edu.tw/'
+  submit_url: 'https://srmv2.eg.org/COMFy/Conference/PG_2025'
   sub: ['CG']
   note: '<b>NOTE</b>: Mandatory abstract registration on May 30, 2025'
 
@@ -41,6 +43,7 @@
   date: 'Sep 28 - Oct 1, 2025'
   place: 'Busan, Korea'
   url: 'https://uist.acm.org/2025/'
+  submit_url: 'https://new.precisionconference.com/submissions'
   sub: ['HCI']
   note: '<b>NOTE</b>: Mandatory abstract registration on Apr 02, 2025'
 
