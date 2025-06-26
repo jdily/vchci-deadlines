@@ -1,4 +1,25 @@
 ---
+- title: CHI
+  year: 2026
+  id: chi26
+  deadline: '2025-09-11 23:59:59'
+  timezone: UTC-12
+  date: 'Apr 13-17, 2026'
+  place: 'Barcelona, Spain'
+  url: 'https://chi2026.acm.org/'
+  sub: ['HCI']
+  note: '<b>NOTE</b>: Mandatory abstract registration on Sep 04, 2025'
+
+- title: SCF
+  year: 2025
+  id: scf25
+  deadline: '2025-07-17 23:59:59'
+  timezone: UTC-12
+  date: 'Nov 20-21, 2025'
+  place: 'Cambridge, MA, USA'
+  url: 'https://scf.acm.org/2025/index.html'
+  sub: ['HCI', 'CG']
+
 - title: SIGGRAPH ASIA
   year: 2025
   id: sigasia25
