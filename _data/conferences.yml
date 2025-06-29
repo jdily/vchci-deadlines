@@ -1,4 +1,15 @@
 ---
+- title: EG
+  year: 2026
+  id: eg2026
+  deadline: '2025-09-26 23:59:59'
+  timezone: UTC-0
+  date: 'May 4-8, 2026'
+  place: 'Aachen, Germany'
+  url: 'https://eg2026.github.io/'
+  sub: ['CG']
+  note: '<b>NOTE</b>: Mandatory abstract registration on Sep 22, 2025'
+  
 - title: CHI
   year: 2026
   id: chi26
