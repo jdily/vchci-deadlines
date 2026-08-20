@@ -1,4 +1,38 @@
 ---
+- title: CHI
+  year: 2027
+  id: chi27
+  deadline: '2025-09-10 23:59:59'
+  timezone: UTC-12
+  date: 'May 10-14, 2026'
+  place: 'Pittsburgh, Pennsylvania, United States'
+  url: 'https://chi2027.acm.org/'
+  sub: ['HCI']
+  note: ''
+
+- title: ICLR
+  year: 2027
+  id: iclr2027
+  deadline: '2026-09-25 23:59:59'
+  timezone: UTC-12
+  date: 'Apr 26-30, 2027'
+  place: San Francisco, California, United States
+  sub: ['ML']
+  url: 'https://iclr.cc/'
+  submit_url: https://openreview.net/group?id=ICLR.cc/2027/Conference
+  note: '<b>NOTE</b>: Mandatory abstract registration on Sep 18, 2026'
+  
+- title: EG
+  year: 2027
+  id: eg2027
+  deadline: '2025-10-01 23:59:59'
+  timezone: UTC-0
+  date: 'May 10-14, 2027'
+  place: 'Lucca, Tucscany, Italy'
+  url: 'https://eg2027.isti.cnr.it/'
+  sub: ['CG']
+  note: '<b>NOTE</b>: Mandatory abstract registration on Sep 25, 2026'
+  
 - title: EG
   year: 2026
   id: eg2026
