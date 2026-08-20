@@ -2,7 +2,7 @@
 - title: CHI
   year: 2027
   id: chi27
-  deadline: '2025-09-10 23:59:59'
+  deadline: '2026-09-10 23:59:59'
   timezone: UTC-12
   date: 'May 10-14, 2026'
   place: 'Pittsburgh, Pennsylvania, United States'
@@ -25,7 +25,7 @@
 - title: EG
   year: 2027
   id: eg2027
-  deadline: '2025-10-01 23:59:59'
+  deadline: '2026-10-01 23:59:59'
   timezone: UTC-0
   date: 'May 10-14, 2027'
   place: 'Lucca, Tucscany, Italy'
