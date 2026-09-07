@@ -1,4 +1,16 @@
 ---
+- title: CVPR
+  year: 2027
+  id: cvpr2027
+  deadline: '2026-11-16 23:59:59'
+  timezone: UTC-0
+  date: 'June 20-25, 2025'
+  place: Seattle, WA, United States
+  sub: ['CV', 'ML']
+  url: https://cvpr.thecvf.com/
+  submit_url: https://openreview.net/group?id=thecvf.com/CVPR/2027/Conference
+  note: '<b>NOTE</b>: Mandatory abstract registration on Nov 10, 2026'
+  
 - title: CHI
   year: 2027
   id: chi27
